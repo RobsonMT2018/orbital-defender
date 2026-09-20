@@ -1,3 +1,8 @@
+
+<img src="https://komarev.com/ghpvc/?username=robsonmt2018&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/><img src="https://img.shields.io/github/followers/robsonmt2018?label=FOLLOWERS&style=for-the-badge&color=0066FF&labelColor=080B18" alt="GitHub Followers"/>
+---
+
+
 # 🚀 ORBITAL DEFENDER - ULTIMATE EDITION v2.3
 
 <img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/ea7ce33a-a793-4b03-b961-394f6a5d8cd3" />
